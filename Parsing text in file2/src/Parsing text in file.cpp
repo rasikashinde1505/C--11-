@@ -26,7 +26,8 @@ int main(){
  			getline(infile, line, ':');// ':' means take all the information up to the : which we call limiter
  			int population;//int from the file
  		    infile>>population;//taking the integer values from the file
-            infile.get();
+            //infile.get(); out dated
+ 		    infile>>ws;// ws is white space we can use this in c++11
             if(infile){
             	cout<<"The";
             }else{
