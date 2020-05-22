@@ -1,5 +1,5 @@
 //============================================================================
-// Name        : BasicException.cpp
+// Name        : Parsing text in file.cpp
 // Author      : rasika
 // Version     :
 // Copyright   : Your copyright notice
