@@ -10,7 +10,7 @@
 #include<vector>
 using namespace std;
 
-// template
+// how to use template in the class in the function
 /*template<typename T,int n>
 class Array{
 private:
