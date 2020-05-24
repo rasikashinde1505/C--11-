@@ -50,8 +50,8 @@ int main(){
 		}
 		numbers.push_back(i);
 	}
-	numbers.clear();// to clear the vector
-	numbers.reserve(200);// to reserve the memory
+	//numbers.clear();// to clear the vector
+	numbers.reserve(20000);// to reserve the memory
 	numbers.resize(100);//t resize the array
 	cout<<"size: "<<numbers.size()<<endl;
 	cout<<"capacity: "<<numbers.capacity()<<endl;
