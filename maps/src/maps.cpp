@@ -16,7 +16,7 @@ int main() {
 	ages["mrunal"]=23;
 	ages["mohit"]=21;
 
-	ages["rasika"]=24;//updated value will be the final value in the map
+	ages["rasika"]=24;//updated value will be the final value in the map element
 
 	cout<<ages["rasika"]<<endl;
 
